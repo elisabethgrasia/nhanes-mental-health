@@ -1,0 +1,17 @@
+# Raw data
+data_raw/
+
+# Clean datasets
+data_clean/
+
+# R binary files
+*.rds
+*.RData
+
+# System files
+.DS_Store
+Thumbs.db
+
+# RStudio files
+.Rhistory
+.Rproj.user/
