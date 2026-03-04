@@ -7,6 +7,9 @@
 This project demonstrates construction of an analysis-ready population health dataset using publicly available NHANES survey data. Multiple health survey modules were integrated to simulate registry-based epidemiological workflows commonly used in population health research.
 The analysis investigates associations between socioeconomic status, physical comorbidity, healthcare access, and depression outcomes.
 
+## Research Context
+This project was designed to simulate registry-based epidemiological workflows commonly used in large population health studies, including multi-source data integration, cohort construction, and adjusted statistical modeling.
+
 ## 📊 Data Sources
 
 
