@@ -45,7 +45,6 @@ Higher socioeconomic status was associated with lower odds of depression, while 
 - `outputs/logistic_regression_results.csv` — Odds ratios with 95% confidence intervals  
 - `outputs/depression_odds_ratio_plot.png` — Forest plot of regression estimates  
 
----
 
 ## 🔁 Reproducibility
 
