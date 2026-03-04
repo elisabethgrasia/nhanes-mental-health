@@ -44,7 +44,7 @@ Higher socioeconomic status was associated with lower odds of depression, while 
 
 ---
 
-🔁 Reproducibility
+## 🔁 Reproducibility
 
 
 Run scripts sequentially:
@@ -79,7 +79,7 @@ depressed ~ poverty_ratio + age + sex + comorbidity + uninsured
 
 R, tidyverse, ggplot2, epidemiological modeling
 
-## ## 📥 Data Availability
+## 📥 Data Availability
 
 NHANES data files are not included in this repository.  
 Download DEMO, DPQ, MCQ, and HIQ datasets from NHANES and place them in the `data_raw/` directory before running the analysis.
